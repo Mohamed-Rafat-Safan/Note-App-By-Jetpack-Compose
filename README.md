@@ -31,7 +31,7 @@
 ### Splash Screen & Notes Screen: <br>
 
 <p align="center">
-<img src="(https://github.com/user-attachments/assets/35bd8afd-20b1-41aa-8464-073f425dd65a" width="230" height="500" />
+<img src="https://github.com/user-attachments/assets/35bd8afd-20b1-41aa-8464-073f425dd65a" width="230" height="500" />
  <span> &nbsp;  &nbsp; </span>
 <img src="https://github.com/user-attachments/assets/65585aad-3cf1-4167-8987-aecdc8c576ab" width="230" height="500" />
  <span> &nbsp;  &nbsp; </span>
