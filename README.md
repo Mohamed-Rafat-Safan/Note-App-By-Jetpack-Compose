@@ -1,6 +1,6 @@
 # Note-App-By-Jetpack-Compose
 
-#### Note App, This app is for training on android jetpack compose and the notes are stored in a local database called roomDb.
+#### Note App, This app is for training on android jetpack compose and the notes are stored in a local database by roomDb.
 
 ## The skills are used in this application:
 - language: Kotlin </br>
