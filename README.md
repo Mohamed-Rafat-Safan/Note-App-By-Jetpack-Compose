@@ -21,7 +21,7 @@
 
 ## This app use MVVM with Clean Architecture : </br>  <br>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/0c982574-9fac-44bd-ac80-cdc07a54d619"/>
+<img src="https://github.com/user-attachments/assets/60db3f6e-5b7a-40c6-84e5-c873ac20967f"/>
 </p>  <br> 
 
 
