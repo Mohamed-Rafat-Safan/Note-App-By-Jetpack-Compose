@@ -10,7 +10,7 @@
 - Splash Screen with Compose </br>
 - Modularization </br>
 - Clean Architecture </br>
-- Architectural pattern by (MVVM By Compose) </br> 
+- Architectural pattern by (MVI By Compose) </br> 
 - StateFlow & SharedFlow </br>
 - SavedStateHandle to save data  </br>
 - Dependency injection by (Dagger Hilt) </br>
